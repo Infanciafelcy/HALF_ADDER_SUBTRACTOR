@@ -36,7 +36,7 @@ Figure -02 HALF Subtractor
 **Truthtable**
 
 **Procedure**
-
+```
 1.	Type the program in Quartus software.
 
 2.	Compile and run the program.
@@ -46,16 +46,19 @@ Figure -02 HALF Subtractor
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
 5.	For different input combinations generate the timing diagram.
-
+```
 
 **Program:**
-
+```
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+Developed by:Infancia Felcy P
+ RegisterNumber:212223040067*/
 
 **RTL Schematic**
+Half Adder:![3dia add](https://github.com/Infanciafelcy/HALF_ADDER_SUBTRACTOR/assets/155411010/bf584785-0fbf-469d-bb06-450894eed4a2)
 
 **Output/TIMING Waveform**
 
+```
 **Result:**
