@@ -57,8 +57,11 @@ Developed by:Infancia Felcy P
 
 **RTL Schematic**
 
+![3dia add](https://github.com/Infanciafelcy/HALF_ADDER_SUBTRACTOR/assets/155411010/a50d8859-2f15-4404-a1a0-d7a299cf76a4)
 
-https://github.com/Infanciafelcy/HALF_ADDER_SUBTRACTOR/assets/155411010/049a7b54-559f-4a34-9259-2709205eeb8a
+
+![3sub diaa](https://github.com/Infanciafelcy/HALF_ADDER_SUBTRACTOR/assets/155411010/270ecc98-e4b0-4f9b-a5a4-46756fb88a5c)
+
 
 
 **Output/TIMING Waveform**
